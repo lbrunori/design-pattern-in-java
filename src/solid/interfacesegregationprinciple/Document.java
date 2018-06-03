@@ -1,4 +1,4 @@
-package interfacesegregationprinciple;
+package solid.interfacesegregationprinciple;
 
 class Document {
 

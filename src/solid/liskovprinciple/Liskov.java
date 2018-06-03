@@ -1,4 +1,4 @@
-package liskovprinciple;
+package solid.liskovprinciple;
 
 class Liskov {
     static void useIt(Rectangle r) {

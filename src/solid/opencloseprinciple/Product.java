@@ -1,4 +1,4 @@
-package opencloseprinciple;
+package solid.opencloseprinciple;
 
 import java.util.List;
 import java.util.stream.Stream;
